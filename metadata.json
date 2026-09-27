@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Image Assistant for E-Commerce",
+  "description": "Transforms a single product image into accessible, optimized, and platform-ready commerce assets with WCAG alt text, multi-tier descriptions, SEO metadata, marketplace listings, and visual image variants.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
