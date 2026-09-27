@@ -1,12 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌟 Bright Brains – Pixels to Products
 
-# Run and deploy your AI Studio app
+## 📌 About the Project
 
-This contains everything you need to run your app locally.
+**Bright Brains** is an AI-powered project developed for the **Cloudinary AI Hackathon 2026 – Pixels to Products**.
 
-View your app in AI Studio: https://ai.studio/apps/a729e83f-9eb4-4b6b-9635-ba8bfa106851
+The project helps small businesses and online sellers turn product images into useful and accessible product information using AI.
+
+It can analyze product images and generate descriptions that can be useful for e-commerce platforms and users with visual difficulties.
+
+---
+
+## 🎥 Demo Video
+
+👉 [Watch the Demo Video](https://drive.google.com/file/d/1yWw86zRkyU4_0TTs0yWuEwqhb-hzzVY0/view?usp=drivesdk)
+
+---
+
+## ✨ Features
+
+- 🖼️ Upload and analyze product images
+- 🤖 AI-powered image understanding
+- 📝 Generate product descriptions
+- ♿ Improve accessibility of product images
+- ☁️ Cloudinary-based image handling
+- 🛍️ Useful for e-commerce and online sellers
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- JavaScript / TypeScript
+- Google Gemini AI
+- Cloudinary
+- Node.js
+- npm
+- Google AI Studio
+
+---
+
+## 🚀 How to Run the Project
 
 ## Run Locally
 
